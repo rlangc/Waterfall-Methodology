@@ -51,44 +51,36 @@ The Waterfall model consists of several well-defined phases:
 
 <h2>Disadvantages of Waterfall Model</h2>
 
-    Inflexibility to Changes:
-        Once a phase is completed, revisiting it is costly and time-consuming
-        Not ideal for evolving or unclear requirements
-
-    Late Discovery of Issues:
-        Since testing happens at the end, critical issues may surface too late
-        Bug fixing at later stages can increase costs exponentially
-
-    Time-Consuming:
-        The sequential nature means no overlapping of phases, which can slow down progress
-        Prototyping is limited compared to Agile approaches
-
-    User Involvement is Limited:
-        End-users or clients may not see the product until the later stages, leading to dissatisfaction if expectations aren’t met
+- Inflexibility to Changes:
+    - Once a phase is completed, revisiting it is costly and time-consuming
+    - Not ideal for evolving or unclear requirements
+- Late Discovery of Issues:
+    - Since testing happens at the end, critical issues may surface too late
+    - Bug fixing at later stages can increase costs exponentially
+- Time-Consuming:
+    - The sequential nature means no overlapping of phases, which can slow down progress
+    - Prototyping is limited compared to Agile approaches
+- User Involvement is Limited:
+    - End-users or clients may not see the product until the later stages, leading to dissatisfaction if expectations aren’t met
 
 <h2>When to Use Waterfall Methodology</h2>
 
 Waterfall is suitable for:
-
-Projects with Well-Defined Requirements:
-Where requirements are unlikely to change (e.g., government contracts)
-
-    Regulated Industries:
-        Healthcare, defense, and aerospace, where documentation and traceability are crucial
-
-    Large-Scale Enterprise Systems:
-        Where multiple departments need structured development and rollout
-
-    Fixed Budget and Timeline Projects:
-        When cost and delivery date are set in stone, and minimal deviations are expected
+- Projects with Well-Defined Requirements:
+    - Where requirements are unlikely to change (e.g., government contracts)
+- Regulated Industries:
+    - Healthcare, defense, and aerospace, where documentation and traceability are crucial
+- Large-Scale Enterprise Systems:
+    - Where multiple departments need structured development and rollout
+- Fixed Budget and Timeline Projects:
+    - When cost and delivery date are set in stone, and minimal deviations are expected
 
 <h2>When NOT to Use Waterfall</h2>
 
 Avoid using Waterfall for:
-
-    Projects with frequent requirement changes
-    Startups or R&D projects requiring rapid iterations
-    Customer-driven applications where feedback is critical during development
+- Projects with frequent requirement changes
+- Startups or R&D projects requiring rapid iterations
+- Customer-driven applications where feedback is critical during development
 
 <h2></h2>
 <p align="center">
